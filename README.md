@@ -4,4 +4,4 @@
 - Support USB to lan
 - Stabil jalan berhari-hari
 ## Link Download Firmware
-- [Dwonload](https://drive.google.com/file/d/108_7pTHULcuet0_Pq7sXVzOHNjLyX6yz/view?usp=sharing)
+- [Download](https://drive.google.com/file/d/108_7pTHULcuet0_Pq7sXVzOHNjLyX6yz/view?usp=sharing)
